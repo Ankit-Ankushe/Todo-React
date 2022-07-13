@@ -1,0 +1,29 @@
+{
+  "todo": [
+    {
+      "id": "de197065-ded0-4185-95d5-2e5cad5a07aa",
+      "title": "Excercise",
+      "status": false
+    },
+    {
+      "id": "409854ea-dac6-44b9-8a9f-dde67944acc5",
+      "title": "Cycling",
+      "status": false
+    },
+    {
+      "id": "58d583a7-25d9-4503-b4e2-a60059aa5726",
+      "title": "Milk Delivery",
+      "status": false
+    },
+    {
+      "id": "70162ab6-beec-42bf-96c9-05b3be273558",
+      "title": "Pooja",
+      "status": false
+    },
+    {
+      "id": "cb02b120-b5fe-4db5-93d4-07dfa6639823",
+      "title": "Bath",
+      "status": false
+    }
+  ]
+}
